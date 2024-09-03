@@ -10,6 +10,7 @@ This is a simple React application that allows users to change the background co
 - **Responsive Design**: The layout is responsive and ensures that the color buttons remain accessible at the bottom of the screen on different device sizes.
 
 ## Demo
+go to assets section
 
 
 

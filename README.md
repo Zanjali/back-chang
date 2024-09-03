@@ -27,6 +27,6 @@ To run this project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/background-color-changer.git
-   cd background-color-changer
+   git clone https://github.com/Zanjali/back-chang.git
+   cd back-chang
 

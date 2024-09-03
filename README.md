@@ -11,7 +11,7 @@ This is a simple React application that allows users to change the background co
 
 ## Demo
 
-[Include a screenshot or a link to a live demo if available]
+
 
 ## Getting Started
 
